@@ -48,3 +48,16 @@ Arduino IDE using C/C++.
 
 CMR Institute of Technology  
 Department of Artificial Intelligence and Machine Learning
+
+
+## 📄 Project Report
+
+The complete mini-project report is available here:
+
+[View Project Report](4th%20sem%20mini%20project%20report.pdf)
+
+## 💻 Source Code
+
+The Arduino source code is available here:
+
+[View Arduino Code](code/gas_leak_detection.ino)
